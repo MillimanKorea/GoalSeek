@@ -16,11 +16,11 @@
 		4. P1 = P0 * 1.01
 
 		5. F1 = SolveA_mGPS(P1)
-			3.1. Multiply Factor = P1
-			3.2. Future Projection
-			3.3. Load PVF Values
-			3.4. Fx = PVFClaim01 - PVFIncome01 * P1
-			3.5. return Fx
+			5.1. Multiply Factor = P1
+			5.2. Future Projection
+			5.3. Load PVF Values
+			5.4. Fx = PVFClaim01 - PVFIncome01 * P1
+			5.5. return Fx
 
 		6. Fder = (F1 - F0) / (P1 - P0)
 			6.1. Fder = (PVFClaim00 - PVFIncome00 - PVFClaim01 + PVFIncome01 * 1.01) / 0.01
