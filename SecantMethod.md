@@ -5,6 +5,7 @@
 **1. P0 = P2**
 
 **2. F0 = SolveA_mGPS(P0)**
+
 	2.1. Multiply Factor = P0
 	2.2. Future Projection
 	2.3. Load PVF Values
