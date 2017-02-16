@@ -7,5 +7,5 @@ ___
 
 + [GoalSeek_MG-ALFA.c](https://github.com/MillimanKorea/GoalSeek/blob/master/GoalSeek_MG-ALFA.c) : MG-ALFA UDF 를 이용해서 작성된 Goal Seek Function Code
 
-+ [SecantMethod.md](https://MillimanKorea.github.io/GoalSeek/SecantMethod) : Secant Method 를 이용하여 GMB 수수료를 Goal Seek 하기 위한 로직 구성 설명
++ [SecantMethod.md](http://MillimanKorea.github.io/GoalSeek/SecantMethod) : Secant Method 를 이용하여 GMB 수수료를 Goal Seek 하기 위한 로직 구성 설명
 
