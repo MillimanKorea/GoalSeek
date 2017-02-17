@@ -1,4 +1,4 @@
-#Secant Method
+# Secant Method
 
 **Initialization : P0 = 1**
 
