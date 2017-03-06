@@ -9,3 +9,5 @@ ___
 
 + [SecantMethod.md](http://MillimanKorea.github.io/GoalSeek/SecantMethod) : Secant Method 를 이용하여 GMB 수수료를 Goal Seek 하기 위한 로직 구성 설명
 
+
+![Goal Seek Process](https://raw.githubusercontent.com/MillimanKorea/GoalSeek/master/SecantMethod.png)
